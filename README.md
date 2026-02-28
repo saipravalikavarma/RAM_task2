@@ -40,9 +40,6 @@ This ensures synchronized memory access.
 
 ## ▶️ Simulation Output
 
-### 🔹 Waveform Preview
-
-![RAM Simulation](https://github.com/saipravalikavarma/RAM_task2/blob/main/WhatsApp%20Image%202026-02-28%20at%2010.06.30%20PM.jpeg)
 
 ### 🔹 Direct Waveform Link
 
